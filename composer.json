@@ -1,0 +1,15 @@
+{
+    "name": "micha/jacky-khan",
+    "description": "SMÜ Kung-Fu",
+    "type": "libary",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Michael Ungerboeck",
+            "email": "3876@htl.rennweg.at"
+        }
+    ],
+    "require": {
+
+    }
+}
